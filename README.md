@@ -16,7 +16,7 @@ Repository ini berisi source code utama dalam bentuk **Jupyter Notebook (.ipynb)
 
 
 > Catatan:  
-> File besar seperti `X_hog.npy`, `y.npy`, atau `loocv_13k_ckpt.pkl` **tidak di-upload** karena termasuk file hasil proses, bukan source code.
+> File besar seperti `X_hog.npy`, atau `loocv_13k_ckpt.pkl` **tidak di-upload** karena termasuk file hasil proses, bukan source code.
 
 ---
 
